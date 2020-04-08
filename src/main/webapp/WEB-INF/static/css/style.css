@@ -1,0 +1,16 @@
+.excess {
+    color: red;
+}
+
+table {
+    border-collapse: collapse; /* убираем двойную границу между ячейками */
+}
+
+td, th {
+    padding: 10px; /* внутренние отступы для тега заголовка(th) таблицы и ячейки(td) в 10 пикселей(px) */
+    border: 1px solid #cccccc; /* серая граница для тега заголовка и ячейки */
+}
+
+th {
+    background-color: #C1D3FF; /* голубой цвет фона заголовка(th) */
+}
